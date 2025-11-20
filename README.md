@@ -1,3 +1,27 @@
 # Projet-voilier
 
-Titouan mathieu test
+## Port Utilisé
+
+ADC12_IN10: PC0
+
+ADC12_IN11: PC1
+
+ADC12_IN12: PC2
+
+ADC12_IN13: PC3
+
+USART1_TX: PA9
+
+USART1_RX: PA10
+
+USART2_TX: PA2
+
+USART2_RX: PA3
+
+TIM1_CH1 (PWM): PA8
+
+TIM2_CH1: PA0
+
+TIM3_CH1: PA6
+
+TIM4_CH1: PB6
